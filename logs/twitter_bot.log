@@ -1,0 +1,2 @@
+2018-12-13 17:43:56,156 root ERROR Unable to post to twitter: Twitter sent status 401 for URL: 1.1/statuses/update.json using parameters: (in_reply_to_status_id=None&oauth_consumer_key=1073385632452333568-qAIzX8uFLRe70wkdbSL11HHuk6q19D&oauth_nonce=14243406051388740190&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1544751835&oauth_token=1fxp1whX5PqQBGZ5toOErohQh&oauth_version=1.0&status=This%20is%20my%20message%21&oauth_signature=lKgUGj3APC34fY7ootfQpOIlzOI%3D)
+details: {'errors': [{'code': 89, 'message': 'Invalid or expired token.'}]}
